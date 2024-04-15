@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-```
+```c
 //shm.c
 
 #include<unistd.h> 
